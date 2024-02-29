@@ -1,1 +1,1 @@
-This repositore will be filled with projects using neural network. 
+This repository will be filled with projects using neural network. 
